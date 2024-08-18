@@ -1,0 +1,10 @@
+C:\Users\Microsoft Surface\source\repos\amallar\amallar\bin\Debug\amallar.exe.config
+C:\Users\Microsoft Surface\source\repos\amallar\amallar\bin\Debug\amallar.exe
+C:\Users\Microsoft Surface\source\repos\amallar\amallar\bin\Debug\amallar.pdb
+C:\Users\Microsoft Surface\source\repos\amallar\amallar\obj\Debug\amallar.csproj.AssemblyReference.cache
+C:\Users\Microsoft Surface\source\repos\amallar\amallar\obj\Debug\amallar.Form1.resources
+C:\Users\Microsoft Surface\source\repos\amallar\amallar\obj\Debug\amallar.Properties.Resources.resources
+C:\Users\Microsoft Surface\source\repos\amallar\amallar\obj\Debug\amallar.csproj.GenerateResource.cache
+C:\Users\Microsoft Surface\source\repos\amallar\amallar\obj\Debug\amallar.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft Surface\source\repos\amallar\amallar\obj\Debug\amallar.exe
+C:\Users\Microsoft Surface\source\repos\amallar\amallar\obj\Debug\amallar.pdb
